@@ -1,8 +1,7 @@
-### Hi 👋, I am Ravinder
+                                                                                     ### Hi 👋, I am Ravinder
 
 
 
-Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at https://portfolio-website-theta-liart.vercel.app
 - 📝 I regularly write articles on https://github.com/yadavravi1610
 - 📫 How to reach me: ravinderyadav1610@gmail.com
