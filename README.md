@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravinder</h1>
 <h3 align="center">Making the Web Beautiful & Functional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavravi1610&label=Profile%20views&color=0e75b6&style=flat" alt="yadavravi1610" /> </p>
-
-<p align="left"> <a href="https://twitter.com/raoxravi" target="blank"><img src="https://img.shields.io/twitter/follow/raoxravi?logo=twitter&style=for-the-badge" alt="raoxravi" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-theta-liart.vercel.app](https://portfolio-website-theta-liart.vercel.app)
@@ -29,19 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavravi1610&show_icons=true&locale=en&layout=compact" alt="yadavravi1610" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavravi1610&" alt="yadavravi1610" /></p>
-
-
-
-
-<!--### Hi 👋, I am Ravinder
-
-
-- 👨‍💻 All of my projects are available at https://portfolio-website-theta-liart.vercel.app
-- 📝 I regularly write articles on https://github.com/yadavravi1610
-- 📫 How to reach me: ravinderyadav1610@gmail.com
-- 📄 Know about my experiences https://portfolio-website-theta-liart.vercel.app
-
-### Connect with me:
-
-**yadavravi1610/yadavravi1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
