@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-theta-liart.vercel.app](https://portfolio-website-theta-liart.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-website-theta-liart.vercel.app
 
-- 📝 I regularly write articles on [https://github.com/yadavravi1610](https://github.com/yadavravi1610)
+- 📝 I regularly write articles on https://github.com/yadavravi1610
 
 - 💬 Ask me about **React**
 
